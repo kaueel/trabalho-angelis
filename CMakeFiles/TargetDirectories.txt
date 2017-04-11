@@ -1,0 +1,3 @@
+C:/Users/vinicius/floobits/share/kaueel/trabalho-angelis/CMakeFiles/FT_Bakery.dir
+C:/Users/vinicius/floobits/share/kaueel/trabalho-angelis/CMakeFiles/edit_cache.dir
+C:/Users/vinicius/floobits/share/kaueel/trabalho-angelis/CMakeFiles/rebuild_cache.dir
