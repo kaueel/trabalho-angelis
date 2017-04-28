@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trabalho_angelis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trabalho_angelis">
+				<Option output="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/trabalho_angelis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 trabalho_angelis"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trabalho_angelis/fast">
+				<Option output="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/trabalho_angelis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 trabalho_angelis/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/FT_bakery.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/FT_bakery.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Bread/Bread.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Bread/Bread.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Cheese/Cheese.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Cheese/Cheese.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/CottageCheese/CottageCheese.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/CottageCheese/CottageCheese.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Cracker/Cracker.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Cracker/Cracker.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/FilledWafer/FilledWafer.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/FilledWafer/FilledWafer.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Food/Food.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Food/Food.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Ham/Ham.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Ham/Ham.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Mortadella/Mortadella.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Itens/Mortadella/Mortadella.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/Information/Information.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/Information/Information.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/Menu/Menu.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/Menu/Menu.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/MyBooleanClass/MyBooleanClass.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/MyBooleanClass/MyBooleanClass.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/MyProgram/MyProgram.cpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/Process/MyProgram/MyProgram.hpp">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/a02ex03.sh">
+			<Option target="trabalho_angelis"/>
+		</Unit>
+		<Unit filename="C:/Users/Kaue/Documents/trabalho-angelis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

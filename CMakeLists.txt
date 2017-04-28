@@ -28,6 +28,7 @@ set(SOURCE_FILES
         Process/MyBooleanClass/MyBooleanClass.hpp
         Process/MyProgram/MyProgram.cpp
         Process/MyProgram/MyProgram.hpp
+        a02ex03.sh
         FT_bakery.cpp
         FT_bakery.hpp)
 

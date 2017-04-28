@@ -1,0 +1,3 @@
+C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/CMakeFiles/trabalho_angelis.dir
+C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaue/Documents/trabalho-angelis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

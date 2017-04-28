@@ -7,7 +7,7 @@
 
 */
 
-#include "Root/MyProgram/MyProgram.hpp"
+#include "Process/MyProgram/MyProgram.hpp"
 
 int main(int argc, char* argv[]){
     MyProgram *myProgram = new MyProgram;
